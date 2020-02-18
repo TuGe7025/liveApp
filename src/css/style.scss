@@ -1,0 +1,11 @@
+*{margin: 0;padding: 0;}
+html,#app{width: 100%;}
+.title { padding-top: 5%; text-align: center; }
+.dplayer { width: 67%; height: 38vw; margin: 1% auto 0; }
+.dplayer-video {  object-fit:fill; }
+.dplayer-controller.dplayer-controller-comment .dplayer-icons.dplayer-comment-box {
+    display: block !important;
+    bottom: -38px;
+    background: rgba(41, 40, 40, 0.5);}
+.dplayer-controller .dplayer-icons.dplayer-comment-box { left: 0 !important; right: 0 !important; }
+.dplayer-controller.dplayer-controller-comment .dplayer-icons { display: block !important; }
